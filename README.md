@@ -1,6 +1,6 @@
 # Scaffolding React i18n examples
 
-This repository contains examples on how to transform your React code to replace hard coded strings with translation functions. The setup can be seen as a starting point for building your own transformers to scaffold your `react-i18next` or `react-intl` internationalization.
+This repository contains examples on how to transform your React code to replace hard coded strings with translation functions. The setup can be seen as a starting point for building your own transformers to scaffold your `react-i18next` or `react-intl` internationalization. These examples are used in the blog post [Scaffolding your internatlization in React with automation](https://lingual.dev/blog/automating-your-react-internationalization/).
 
 ![The diff between pre and post automation](./compare-automation.png)
 
